@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://zeeml.com">
-    <img src="./assets/zeeml-banner.svg" alt="ZeeML — Applied Linguistic, Data & Quantitative Engineering" width="100%" />
+    <img src="./assets/zeeml-banner.svg" alt="ZeeML - Applied Linguistic, Data & Quantitative Engineering" width="100%" />
   </a>
   <br />
   <p>
@@ -47,9 +47,21 @@ All repositories under **[@Zee-ML](https://github.com/Zee-ML)** correspond direc
 2. **IDE, CMS & AI Agent Integrations:**
    - Native extensions for **VS Code**, **Eclipse OpenVSX** (Cursor / Windsurf / Antigravity), **JetBrains IDEs**, **GitHub Copilot**, **Antigravity MCP (`@zeeml/mcp-server`)**, **WordPress Gutenberg**, **Figma**, **Obsidian**, **Raycast**, and **Sublime Text**.
 3. **Zero-Dependency Language SDKs & CLI Packages:**
-   - Cross-language parity libraries published to **NPM**, **JSR**, **PyPI**, **Crates.io (`docs.rs`)**, **Go (`pkg.go.dev`)**, **Packagist**, **RubyGems**, **NuGet**, and **Pub.dev**.
+   - Cross-language parity libraries published to **NPM (`zeeml-json-csv`)**, **JSR**, **PyPI (`zeeml-cadence`)**, **Crates.io & Docs.rs (`zeeml-text-metrics`)**, **Go (`pkg.go.dev`)**, **Packagist**, **RubyGems**, **NuGet**, and **Pub.dev**.
 4. **Open Research Benchmarks & Reproducible Datasets:**
-   - Peer-auditable corpora and grading equivalency tables archived on **Harvard Dataverse**, **CERN Zenodo**, **Figshare**, **OSF**, **HuggingFace**, and **Kaggle**.
+   - Peer-auditable corpora and grading equivalency tables archived on **Hugging Face (`zeeml-sentence-cadence-benchmark`)**, **Kaggle**, **CERN Zenodo**, **Figshare**, **OSF**, **ObservableHQ**, and **RPubs**.
+
+| Registry / Hub | Package / Benchmark Identifier | Primary `zeeml.com` Workbench |
+| :--- | :--- | :--- |
+| **Chrome Web Store (Live Extension)** | [`ZeeML Smart Table, Grid & JSON-to-CSV Studio`](https://chromewebstore.google.com/detail/zeeml-smart-table-grid-js/pdgelpgfjakiikgihmdbgngkhejlkibn) | [zeeml.com/json-to-csv](https://zeeml.com/json-to-csv) |
+| **Hugging Face Hub (`@zee-ml`)** | [`huggingface.co/zee-ml`](https://huggingface.co/zee-ml) ([Space](https://huggingface.co/spaces/zee-ml/zeeml-cadence-burstiness-analyzer) & [Dataset](https://huggingface.co/datasets/zee-ml/zeeml-sentence-cadence-benchmark)) | [zeeml.com/ai-humanizer](https://zeeml.com/ai-humanizer) |
+| **Kaggle Datasets** | [`zeeml-ai-cadence-burstiness-benchmark`](https://github.com/Zee-ML/zeeml-research-benchmarks) | [zeeml.com/ai-detector](https://zeeml.com/ai-detector) |
+| **CERN Zenodo / Figshare / OSF** | [`ZeeML Syntactic Burstiness & CGPA Equivalency`](https://github.com/Zee-ML/zeeml-grading-equivalency) | [zeeml.com/cgpa-calculator](https://zeeml.com/cgpa-calculator) |
+| **npm Registry** | [`zeeml-json-csv`](https://www.npmjs.com/package/zeeml-json-csv) | [zeeml.com/json-to-csv](https://zeeml.com/json-to-csv) |
+| **PyPI Python Index** | [`zeeml-cadence`](https://pypi.org/project/zeeml-cadence/) | [zeeml.com/ai-humanizer](https://zeeml.com/ai-humanizer) |
+| **Crates.io & Docs.rs** | [`zeeml-text-metrics`](https://crates.io/crates/zeeml-text-metrics) | [zeeml.com/word-counter](https://zeeml.com/word-counter) |
+| **VS Code & OpenVSX** | `ZeeML.zeeml-vscode` | [zeeml.com/json-to-csv](https://zeeml.com/json-to-csv) |
+| **ObservableHQ & RPubs** | `ZeeML Percentage & CGPA Normalization` | [zeeml.com/percentage-calculator](https://zeeml.com/percentage-calculator) |
 
 ---
 
