@@ -55,8 +55,10 @@ All repositories under **[@Zee-ML](https://github.com/Zee-ML)** correspond direc
 | :--- | :--- | :--- |
 | **Chrome Web Store (Live Extension)** | [`ZeeML Smart Table, Grid & JSON-to-CSV Studio`](https://chromewebstore.google.com/detail/zeeml-smart-table-grid-js/pdgelpgfjakiikgihmdbgngkhejlkibn) | [zeeml.com/json-to-csv](https://zeeml.com/json-to-csv) |
 | **Hugging Face Hub (`@zee-ml`)** | [`huggingface.co/zee-ml`](https://huggingface.co/zee-ml) ([Space](https://huggingface.co/spaces/zee-ml/zeeml-cadence-burstiness-analyzer) & [Dataset](https://huggingface.co/datasets/zee-ml/zeeml-sentence-cadence-benchmark)) | [zeeml.com/ai-humanizer](https://zeeml.com/ai-humanizer) |
-| **Kaggle Datasets** | [`zeeml-ai-cadence-burstiness-benchmark`](https://github.com/Zee-ML/zeeml-research-benchmarks) | [zeeml.com/ai-detector](https://zeeml.com/ai-detector) |
-| **CERN Zenodo / Figshare / OSF** | [`ZeeML Syntactic Burstiness & CGPA Equivalency`](https://github.com/Zee-ML/zeeml-grading-equivalency) | [zeeml.com/cgpa-calculator](https://zeeml.com/cgpa-calculator) |
+| **Kaggle Datasets (`10.0` Usability)** | [`zeeml-ai-cadence-and-burstiness-benchmark-corpus`](https://www.kaggle.com/datasets/zeemlcoder/zeeml-ai-cadence-and-burstiness-benchmark-corpus) | [zeeml.com/ai-detector](https://zeeml.com/ai-detector) |
+| **CERN Zenodo (`DOI: 10.5281/zenodo.24187346`)** | [`zenodo.org/records/24187346`](https://zenodo.org/records/24187346) | [zeeml.com/ai-detector](https://zeeml.com/ai-detector) |
+| **Figshare (`DOI: 10.6084/m9.figshare.35002258`)** | [`Global CGPA, 4.0 GPA & ECTS Equivalency`](https://figshare.com/articles/dataset/ZeeML_Global_CGPA_4_0_GPA_ECTS_Percentage_Grading_Equivalency_Dataset_v1_0_/35002258) | [zeeml.com/cgpa-calculator](https://zeeml.com/cgpa-calculator) |
+| **OSF Open Science (`osf.io/n56sv`)** | [`Contextual Register-Shift & Paraphrasing Corpus`](https://osf.io/n56sv/) | [zeeml.com/paraphrasing-tool](https://zeeml.com/paraphrasing-tool) |
 | **npm Registry** | [`zeeml-json-csv`](https://www.npmjs.com/package/zeeml-json-csv) | [zeeml.com/json-to-csv](https://zeeml.com/json-to-csv) |
 | **PyPI Python Index** | [`zeeml-cadence`](https://pypi.org/project/zeeml-cadence/) | [zeeml.com/ai-humanizer](https://zeeml.com/ai-humanizer) |
 | **Crates.io & Docs.rs** | [`zeeml-text-metrics`](https://crates.io/crates/zeeml-text-metrics) | [zeeml.com/word-counter](https://zeeml.com/word-counter) |
